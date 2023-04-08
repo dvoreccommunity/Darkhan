@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	color: white;
+	background: linear-gradient(to right, green, rgb(4, 139, 208));
+}
+div{
+	margin-top:100px;
+	margin-left:40px;
+	margin-right: 40px;
+	width: 26%;
+	height: 600px;
+	border: 5px solid white;
+	border-radius: 20px;
+	box-shadow: 0 0 20px white;
+	float: left;
+
+}
+img{
+  width: 80%;
+}
+
